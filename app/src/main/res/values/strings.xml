@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PracticaBBDD1</string>
+    <string name="alta">ALTA</string>
+    <string name="baja">BAJA</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="hospital_cod">HOSPITAL_COD</string>
+    <string name="doctor_no">DOCTOR_NO</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="especialidad">ESPECIALIDAD</string>
+    <string name="salario">SALARIO</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="nueva_especialidad">NUEVA ESPECIALIDAD</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="volver">VOLVER</string>
+</resources>
